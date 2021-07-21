@@ -1,0 +1,23 @@
+.headerRoot{
+  background: rebeccapurple;
+  margin-bottom: 1.45rem;
+  text-align: center;
+  padding: 1rem 0;
+}
+.headerContent{
+  margin: 0 auto;
+  max-width: 70%;
+  display: flex;
+  justify-content: space-between;
+}
+.headerLogo{
+  
+}
+.navContent{
+  display: flex;
+}
+.navItem {
+  margin: 0.5rem 1rem 0 1rem;
+  font-family: 'PingFangSC-Light', 'Courier New', Courier, monospace;
+  font-weight: 500;
+}
